@@ -1,8 +1,11 @@
 # pulse-secure-mitm-research
 Pulse Secure mitm research
 
-Placeholder for vulnerability release tomorrow.
-Vuls: 
+Placeholder for joint-release with Pulse Secure tomorrow.  
+
+Vuls:
+* CVE-2020-8241
+* CVE-2020-8239
 
 ## Background
 Pulse Secure, LLC is a global enterprise VPN solution provider. Pulse Connect Secure (PCS) supports more than 20 million endpoints (Pulse Secure, n.d.). 
