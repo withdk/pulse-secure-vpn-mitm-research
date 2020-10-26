@@ -13,8 +13,8 @@ David Kierznowski, @withdk
 * The SA Red Team for their ongoing support and encouragement.
 
 ## CVE Refs
-* CVE-2020-8241
-* CVE-2020-8239
+* CVE-2020-8241 (8.1 High CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H)
+* CVE-2020-8239 (5.9 Medium CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N)
 
 ## Introduction
 Pulse Connect Secure (PCS) is a commonly used enterprise VPN solution. At the time of writing, PCS supports more than 20 million endpoints (Pulse Secure, n.d.). This research focused on reviewing the confidentiality and integrity of the network communication channel established between a Windows 10 PCS endpoint and a PCS gateway. In particular, it asks the question, "how secure is an endpoint when connected to an untrusted network?". This research applies to default and "Always-On" configurations.
