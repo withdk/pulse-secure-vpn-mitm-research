@@ -1,4 +1,4 @@
-# pulse-secure-mitm-research
+# pulse-secure-vpn-mitm-research
 Pulse Secure mitm research 
 
 ## Release date
