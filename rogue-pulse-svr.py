@@ -46,10 +46,10 @@ The original writeup with more info can be found here:
  * See code commends in the main function. It provides a lot more details about the inner workings.
 
 ## Disclaimer
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
-FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The information provided is for educational and research purposes only. The author takes no responsibility for your 
+use of this information and strongly condemns any attempt to violate applicable laws. The author undertakes no duty 
+to update this information, provides no warranties to its completeness, use or applicability, and disclaims all reliance 
+on it. Your use of this information is solely your responsibility.
 
 """
 
