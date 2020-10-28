@@ -18,6 +18,7 @@ David Kierznowski, @withdk
 
 ## Sample
 <img src="https://raw.githubusercontent.com/withdk/pulse-secure-vpn-mitm-research/main/rogue-pulse-cmdhack-poc.gif" />
+Proof of concept demonstrating rogue-pulse-svr.py acquiring a reverse meterpreter shell from a Pulse Client connected to the same network.
 
 ## Introduction
 Pulse Connect Secure (PCS) is a commonly used enterprise VPN solution. At the time of writing, PCS supports more than 20 million endpoints (Pulse Secure, n.d.). This research focused on reviewing the confidentiality and integrity of the network communication channel established between a Windows 10 PCS endpoint and a PCS gateway. In particular, it asks the question, "how secure is an endpoint when connected to an untrusted network?". This research applies to default and "Always-On" configurations.
