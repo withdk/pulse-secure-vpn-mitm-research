@@ -17,7 +17,7 @@ David Kierznowski, @withdk
 * CVE-2020-8239 (5.9 Medium CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N)
 
 ## Sample
-<img src="https://raw.githubusercontent.com/withdk/pulse-secure-vpn-mitm-research/main/rogue-pulse-cmdhack-poc.gif" />
+<img src="https://raw.githubusercontent.com/withdk/pulse-secure-vpn-mitm-research/main/rogue-pulse-cmdhack-poc.gif" alt="A meterpreter reverse shell is spawned after user connects to rogue pulse server." />
 Proof of concept demonstrating rogue-pulse-svr.py acquiring a reverse meterpreter shell from a Pulse Client connected to the same network.
 
 ## Introduction
